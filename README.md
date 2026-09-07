@@ -1,25 +1,26 @@
 # Rodrigo Rivas Yassin
 
-A new media team of ( one ) human + { many } agents.
+a new media team of one human and many agents (the human is me). Madrid.
 
-Cofounder and CMO of Sail. I ran every surface the story travelled on: brand, product design, film, comms. Since 2025 the same job runs through agents (the production is theirs, the judgment is still one person in Madrid). Positioning and production for tech and culture brands, every number with a per-post audit trail.
+i do brand, product design, films and copy for tech and culture brands. the agents do most of the production. i look at everything before it goes out.
 
-## Work
+the work is at [0xr.io](https://0xr.io).
 
-- [0xr.io](https://0xr.io), the site: the films, the record, the receipts
-- [Sail landing](https://sail-landing-v4.vercel.app), current
-- [Sail teaser](https://sail-mini-landing.vercel.app), one screen, CRT terminal hero
-- [Sail landing v2](https://sail-landing-v2.vercel.app), an earlier version, still running
+## Sail
 
-## Open source
+i cofounded Fungi in december 2023. it became Sail in october 2025. the money stays in your account and an agent manages it inside a mandate you signed.
 
-- [sail-money/Sailor](https://github.com/sail-money/Sailor), the open-source harness for DeFi agents on Sail Protocol. MIT.
-- [sail-money/Protocol](https://github.com/sail-money/Protocol), onchain SMAs run by agents. GPL-2.0-or-later.
+what i designed there, still live: the [landing page](https://sail-landing-v4.vercel.app), the [teaser](https://sail-mini-landing.vercel.app), and the local dashboard that ships inside Sailor.
 
-I cofounded the company that built both and ran its brand, product design, film and comms. The engineers wrote the code.
+what the team open sourced:
+
+- [sail-money/Sailor](https://github.com/sail-money/Sailor), the harness that runs DeFi agents on Sail Protocol. MIT. the dashboard inside it is the part i designed.
+- [sail-money/Protocol](https://github.com/sail-money/Protocol), the contracts. GPL-2.0-or-later.
 
 ## Receipts
 
-273,757 views on AI films since December 2025, counted per post across 20 films. 63,903 of those came from partner accounts re-broadcasting them (Arbitrum, Safe, Cambrian), none of it paid. 5,144 views on a 24-hour livestream where a DeFi agent was built live.
+273,757 views on 20 AI films since december 2025. 63,903 of those came from partner accounts reposting them (Arbitrum, Safe, Cambrian). 5,144 views on a 24-hour livestream where a DeFi agent got built.
 
-More at [0xr.io](https://0xr.io). On X, [@0xRcap](https://x.com/0xRcap).
+## Reach me
+
+[@0xRcap](https://x.com/0xRcap) on X, or through [0xr.io](https://0xr.io).
